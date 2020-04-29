@@ -19,7 +19,11 @@ The Normal Dataset is part of [this](https://www.kaggle.com/paultimothymooney/ch
 You can run the python file from the command prompt. Make sure to give an image path using '-i' argument.  
 `python covid_detection.py -i xray.jpeg`
 
+<img src="/src/img1.png" width=90% alt="Command prompt">
+
 The X-ray image will be shown along with the result, as predicted by the model.
+
+<img src="/src/img2.png" width=50% alt="Result">
 
 ### Why this model is not reliable?
 Although the model shows almost 97% accuracy on the validation dataset, yet it is not reliable (yet?) because
