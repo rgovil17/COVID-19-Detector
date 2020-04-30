@@ -1,4 +1,4 @@
-# COVID-19-Detector
+# COVID-19 Detector
 A Convolutional Neural Network (CNN) trained to predict whether a person has coronavirus or not by looking at their posteroanterior (PA) chest X-ray.
 
 ### The Dataset
