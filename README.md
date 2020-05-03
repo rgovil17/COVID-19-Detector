@@ -26,6 +26,6 @@ The X-ray image will be shown along with the result, as predicted by the model.
 <img src="/src/img2.png" width=50% alt="Result">
 
 ### Why this model is not reliable?
-Although the model shows almost 97% accuracy on the validation dataset, yet it is not reliable (yet?) because
+Although the model shows almost 97% accuracy on the validation dataset, it cannot be considered reliable (yet?) because
  - The dataset is very small (Only 224 images for training)
  - We need an expert radiologist's supervision to evaluate our model
